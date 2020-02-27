@@ -1,9 +1,9 @@
 ### 原作者：
 * https://github.com/ToyoDAdoubiBackup/ServerStatus-Toyo
 
-# ServerStatus-Toyo： 
+# ServerStatus： 
 
-* ServerStatus-Toyo版是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针。
+* ServerStatus是一个酷炫高逼格的云探针、云监控、服务器云监控、多服务器探针。
 * 在线演示：www.vpsmanager.tk    
 
 # 目录介绍：
